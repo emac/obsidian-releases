@@ -14908,5 +14908,13 @@
     "author": "Amin Sennour",
     "description": "Change the default filename used for new notes",
     "repo": "TheLoneWanderer4/obsidian-uuid-title"
-  }
+  },
+  {
+    "id": "obsidian-minote-plugin",
+    "name": "Minote",
+    "author": "Emac Shen",
+    "description": "Obsidian Minote Plugin is a plugin to sync Minote(小米笔记) into your Obsidian Vault.",
+    "repo": "emac/obsidian-minote-plugin"
+  },
+}
 ]
